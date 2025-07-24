@@ -1,7 +1,7 @@
 # Quantum Particle Simulator: Majorana Zero-Modes and Particle-in-a-Box
 
 **Author:** Sai Yadavalli  
-**Version:** 1.0
+**Version:** 3.0
 
 A sophisticated quantum mechanics simulation package implementing two fundamental quantum systems: Majorana zero-modes in 1D Kitaev chains and quantum particle-in-a-box with eigenstate clustering analysis, built from scratch using numerical linear algebra and machine learning techniques.
 
